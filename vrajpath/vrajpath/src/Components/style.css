@@ -1,0 +1,290 @@
+*{
+    background-color:  #F5F5F5;
+    
+}
+/* font-weight: 400;
+    color: #919191; */
+.nav-item a{
+    /* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+}
+
+.jumbotron p{
+    color: black;
+    padding-top: 6rem;
+    /* font-family: 'Poppins'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38.68px;
+    line-height: 58px;
+}
+.text-center img{
+    padding-top: 6rem;
+height: 9rem;
+}
+
+#first{
+    height: 25rem;
+}
+
+#second img{
+    height: 19rem;
+    padding-top: 0rem; 
+}
+
+/* #second hr{
+    height: 19rem;
+    padding-top: 0rem; 
+} */
+
+@media only screen and (max-width: 624px) {
+    #first {
+        width: 25rem;
+        position: relative;
+    }
+    
+    #second img{
+       width: 25rem;
+       
+        position: relative; 
+    }
+  }
+
+
+  @media only screen and (max-width: 399px) {
+    #first img{
+        width: 5rem;
+        position: relative;
+    }
+    
+    #second img{
+       width: 5rem;
+       
+        position: relative; 
+    }
+  }
+
+#bigger{
+
+
+/* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 500;
+font-size: 74.4637px;
+line-height: 64px;
+}
+
+#bigger2{
+
+
+/* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 500;
+font-size: 74.4637px;
+line-height: 64px;
+}
+
+#bigger3{
+ 
+
+/* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 500;
+font-size: 74.4637px;
+line-height: 64px;
+}
+.pr{
+    padding-left: 2rem;
+}
+
+#round{
+    padding-top: 0rem;
+    height: 1rem;
+
+}
+
+#alig{
+    margin-left: -4rem;
+}
+#alig1{
+    margin-left: -7rem;
+}
+.te{
+    /* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+
+
+color: #919191;
+}
+
+
+@media only screen and (max-width: 717px) {
+    #alig{
+        margin-left: 2rem;
+    }
+    #alig1{
+        margin-left: 1rem;
+    }
+  }
+#sec{
+    padding-top: 12rem;
+}
+#sec1{
+    padding-top: 12rem;
+}
+#ti{
+    /* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+text-align: center;
+}
+#fond{
+    /* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #919191;
+}
+#map{
+    height: 25rem;
+    margin-left: 6rem;
+    width: 35rem;
+}
+@media only screen and (max-width: 1377px) {
+    #map{
+        height: 20rem;
+        margin-left: 6rem;
+        width: 27rem;
+    
+    }
+  }
+  @media only screen and (max-width: 1195px) {
+    #map{
+        height: 25rem;
+        margin-left: 6rem;
+        width: 17rem;
+    
+    }
+  }
+  @media only screen and (max-width: 1012px) {
+    #map{
+        height: 25rem;
+        margin-left: 0rem;
+        width: 13rem;
+
+    
+    }
+  }
+  @media only screen and (max-width: 865px) {
+    #map{
+        height: 25rem;
+        margin-left: 0rem;
+        width: 13rem;
+
+    
+    }
+  }
+
+  #cont{
+    margin-left: -27rem;
+  }
+#ser{
+    /* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 600;
+font-size: 200px;
+line-height: 300px;
+}
+#ser1{
+    margin-left: 5rem;
+    background-color: white;
+    height: 5rem;
+    width: 5rem;
+}
+@media only screen and (max-width: 485px) {
+    #ser{
+        /* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 600;
+font-size: 147px;
+line-height: 300px;
+    }
+  }
+
+#col{
+    font-weight: 600;
+    color: black;
+}
+#co{
+    color: black;
+}
+
+#backc{
+    background-color: white;
+}
+.card{
+    border-width: 0cap;
+    --bs-card-border-width: 0px; 
+}
+#social{
+    width: 5rem;
+}
+#fb{
+      /* position: absolute; */
+      width: 2rem;
+      margin-left: 1rem;
+
+}
+
+
+
+.cont{
+  position: absolute;
+}
+.cont li{
+    top: -20rem;
+    list-style: none;
+    /* padding: 20px; */
+    position: relative;
+}
+.cont li img{
+    height: 7rem;
+   
+
+}
+#backc img{
+    width: 5rem;
+}
+#backcin{
+    margin-bottom: 5rem;
+    background-color: white;
+    margin-left: 12rem;
+}
+#backco{
+    margin-left: 5rem;
+    background-color: white;
+}
+#whiteback{
+    margin-left: 1rem;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
